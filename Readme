@@ -1,0 +1,7 @@
+echo "# NetCoreAPI" >> README.md 
+git init 
+git add README.md 
+git commit -m "cam kết đầu tiên" 
+git nhánh -M main 
+git remote add Origin https://github.com/chuanh12/NetCoreAPI.git
+ git push - nguồn gốc của bạn chính
